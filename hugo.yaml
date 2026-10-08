@@ -10,8 +10,8 @@ minify:
 
 # PaperMod 主题配置
 params:
-  author: "ylu" #(填写) 
-  description: "你的网站描述" #(填写) eg. phd/grad student researcher
+  author: "Jingyan Chen" #(填写) 
+  description: "PhD student researcher" #(填写) eg. phd/grad student researcher
   
   # 显示设置
   ShowReadingTime: false      # 显示阅读时间
