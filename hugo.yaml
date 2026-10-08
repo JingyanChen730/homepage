@@ -30,7 +30,7 @@ params:
     # 可选按钮
     buttons:
       - name: CV
-        url: /cv.pdf # (填写) 把图片放到static/文件夹下，命名为cv.pdf
+        url: cv.pdf # PDF 文件放在 static/cv.pdf
       - name: Google Scholar
         url: "https://scholar.google.com/citations?user=xxxx" # (填写) 
 #      - name: ORCID
