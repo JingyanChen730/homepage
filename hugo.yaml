@@ -46,7 +46,7 @@ params:
       url: "https://github.com/yourname" # (填写) 
       title: "GitHub"
     - name: email
-      url: "mailto:your@email.com" # (填写) 
+      url: "mailto:230269253@seu.edu.cn" # (填写) 
       title: "email"
 #    - name: linkedin
 #      url: "https://www.linkedin.com/in/yourname"
@@ -77,10 +77,12 @@ languages:
     params:
       homeInfoParams:
         # 中文首页标题  (填写) 
-        Title: "姓名 / Your Name"
+        Title: "陈静妍"
         # 中文首页自我介绍，markdown格式  (填写) 
         Content: |
-          (Example 1) I am a second-year PhD student at the University of California Merced advised by Prof. Ming-Hsuan Yang. My current research topics are in image and video generation. I’m interested in developing interactable visual intelligence.
+          I am a first-year PhD student at the Key Laboratory of Quantum Materials and Devices of Ministry of Education, School of Physics, Southeast University, under the supervision of Prof. Shuai Dong. 
+          
+          My current research topics are in image and video generation. I’m interested in developing interactable visual intelligence.
           
           Before my PhD journey, I also worked on visual-language learning with Prof. Winston Hsu at National Taiwan University.
     # 中文可选菜单
